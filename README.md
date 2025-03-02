@@ -1,12 +1,4 @@
-# Welcome to My GitHub Profile!
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/aathifawfer?v=4" alt="Aathif Profile Picture" width="150"/>
-</p>
-
-<p align="center">
-  🚀 Software Engineering Student 
-</p>
+# Welcome to My GitHub Profile!🚀
 
 ## 🌟 About Me  
 - **Software Engineering student** at Informatics Institute of Technology (**University of Westminster, UK**).  
@@ -16,6 +8,23 @@
 - Active member and volunteer at **IEEE Student Branch IIT, IEEE RAS, and IET on Campus IIT**.  
 
 ---
+## 📌 Notable Projects  
+### 🔹 [SkillBridge](https://www.skillbridge.life/)  
+_A mobile app helping children with **autism, ADHD, and Down syndrome** develop life skills._  
+- 🦎 Features **Finn the Axolotl**, a voice-powered virtual guide.  
+- 📱 Teaches **daily routines, communication, and vocational skills**.  
+- 🎨 Uses **gamification and visual learning**.  
+
+### 🔹 Project Rebuild  
+_A fundraising platform aligned with **UNSDG 16** to support communities in crisis._  
+- 💡 Focused on **peace, justice, and rebuilding efforts**.  
+- 🌍 Provides **transparent donation tracking**.  
+
+### 🔹 Real-Time Ticketing System  
+_A concurrency-based **Java application** for real-time customer-vendor interactions._  
+
+### 🔹 HomeAway  
+_A web app supporting **international students' mental health and social connections**._ 
 
 ## 🔧 Skills & Technologies
 ### 🖥️ Programming Languages  
@@ -61,32 +70,7 @@
 </details>
 
 ---
--->
+--> 
 
-## 📌 Notable Projects  
-### 🔹 [SkillBridge](https://www.skillbridge.life/)  
-_A mobile app helping children with **autism, ADHD, and Down syndrome** develop life skills._  
-- 🦎 Features **Finn the Axolotl**, a voice-powered virtual guide.  
-- 📱 Teaches **daily routines, communication, and vocational skills**.  
-- 🎨 Uses **gamification and visual learning**.  
-
-### 🔹 Project Rebuild  
-_A fundraising platform aligned with **UNSDG 16** to support communities in crisis._  
-- 💡 Focused on **peace, justice, and rebuilding efforts**.  
-- 🌍 Provides **transparent donation tracking**.  
-
-### 🔹 Real-Time Ticketing System  
-_A concurrency-based **Java application** for real-time customer-vendor interactions._  
-
-### 🔹 HomeAway  
-_A web app supporting **international students' mental health and social connections**._  
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
-</div>
-
-
+💡 _"Building impactful tech solutions for a better tomorrow!"_ 
 
