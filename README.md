@@ -1,6 +1,4 @@
-👋 Hi, I'm Aathif!  
-
-🚀 Software Engineering Student | AI & ML | Open Source Contributor | IEEE Volunteer**  
+👋 Hi, I'm Aathif! a Software Engineering Student
 
 ## 🔹 About Me  
 - **Software Engineering Student** at **Informatics Institute of Technology**, affiliated with the **University of Westminster, UK**.  
@@ -31,9 +29,6 @@ _A fundraising platform aligned with **UNSDG 16** to support communities in cris
 ### 🔹 Real-Time Ticketing System  
 _A concurrency-based Java application for real-time customer-vendor interactions._  
 
-### 🔹 Personal Finance Tracker  
-_A budgeting tool built with Python and Tkinter._  
-
 ## 🎖️ Achievements & Involvement  
 - **IEEE Member & Volunteer** – Active in **IEEE Student Branch IIT, IEEE RAS**.  
 - **Hackathon Participation** – Competed in **CodeSprint 8, Parallax 24, Haxpedition, IEEE Xtreme 24**.  
@@ -46,7 +41,3 @@ _A budgeting tool built with Python and Tkinter._
 [![SkillBridge](https://img.shields.io/badge/SkillBridge-0078D7?style=flat&logo=google-play&logoColor=white)](https://www.skillbridge.life/)  
 
 💡 _"Building impactful tech solutions for a better tomorrow!"_  
-
----
-
-Let me know if you'd like any changes! 🚀
